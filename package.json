@@ -27,7 +27,6 @@
   },
   "homepage": "https://github.com/Terminux/react-csv-downloader#readme",
   "devDependencies": {
-    "babel": "^6.3.26",
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.26",
     "babel-eslint": "^6.0.4",
